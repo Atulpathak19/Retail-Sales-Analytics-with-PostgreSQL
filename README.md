@@ -4,7 +4,7 @@ This repository contains Task 6 of my Data Analyst Internship at Elevate Labs, w
 Project Overview
 The aim of this project was to import a CSV dataset into a PostgreSQL database, structure the data effectively, and execute analytical SQL queries to uncover meaningful business insights. The dataset contains transaction-level details such as product information, pricing, quantities, customer demographics, payment methods, and purchase dates.
 
-Key Steps & Implementation
+#Key Steps & Implementation
 
 1.Database Schema Design
 
@@ -48,7 +48,7 @@ Counted order volumes using COUNT(*) (and simulated COUNT(DISTINCT order_id) log
 
 18.Provided insights that could be used for demand forecasting and strategic decision-making.
 
-Skills & Tools Used
+#Skills & Tools Used
 
 1.PostgreSQL – SQL scripting, aggregation, filtering, grouping, sorting
 
